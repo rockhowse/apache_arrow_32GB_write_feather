@@ -33,4 +33,10 @@ In an effort to better understand the issue we will test on a couple OSes with v
 
 The first test will verify functionality using a standard macbook development laptop. 
 
-[Details can be found here](macos_12.1_32GB_RAM_1TB_nVME/README.md) 
+[Details can be found here](macos_12.1_32GB_RAM_1TB_nVME/README.md)
+
+### Windows 10 64GB RAM
+
+This tests the example R code with a 32GB dataframe on a laptop with 64GB of RAM. It tests both default windows Page File as well as a 64GB Page File configuration.
+
+[Details can be found here](windows_10_20H2_64GB_RAM_1TB_nVME/README.md) 
