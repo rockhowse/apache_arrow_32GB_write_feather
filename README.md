@@ -40,3 +40,9 @@ The first test will verify functionality using a standard macbook development la
 This tests the example R code with a 32GB dataframe on a laptop with 64GB of RAM. It tests both default windows Page File as well as a 64GB Page File configuration.
 
 [Details can be found here](windows_10_20H2_64GB_RAM_1TB_nVME/README.md) 
+
+### Windows 10 128GB RAM
+
+This tests the example R code with a 32GB dataframe on a desktop with 128GB of RAM. It tests both default windows Page File as well as a 64GB Page File configuration.
+
+[Details can be found here](windows_10_21H2_128GB_RAM_2TB_nVME/README.md) 
